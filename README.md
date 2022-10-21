@@ -1,4 +1,5 @@
-### Hi there let's help each other to bring changes out there.
+### Hi there!
+let's help each other to bring positive changes out there.
 
 <!--
 **rizaeian/rizaeian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
